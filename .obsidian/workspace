@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "33ccf85166dc0065",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdd9fbc06f898751",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51515af932423154",
+    "type": "split",
+    "children": [
+      {
+        "id": "71b5ec2a573c8654",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ee253b02f064187",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1115b2fda43572d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61f7c49671931712",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d75179e5ee12ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0bb5dd5378d9fd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "768488a4b180cb13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4396cbf418431d2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bdd9fbc06f898751",
+  "lastOpenFiles": []
+}

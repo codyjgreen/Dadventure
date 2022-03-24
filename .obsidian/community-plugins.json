@@ -5,5 +5,9 @@
   "obsidian-admonition",
   "sliding-panes-obsidian",
   "obsidian-mind-map",
-  "obsidian-git"
+  "obsidian-git",
+  "url-into-selection",
+  "obsidian-extract-pdf-highlights",
+  "obsidian-timelines",
+  "obsidian-gallery"
 ]

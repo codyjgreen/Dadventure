@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bdd9fbc06f898751",
+        "id": "4ebcfa9b36924760",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "PC/Alive/Rusty Bishop.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PC/Alive/Rusty Bishop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,26 +86,29 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PC/Alive/Rusty Bishop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "c4396cbf418431d2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 225,
     "collapsed": true
   },
-  "active": "bdd9fbc06f898751",
-  "lastOpenFiles": []
+  "active": "4ebcfa9b36924760",
+  "lastOpenFiles": [
+    "PC/Alive/Rusty Bishop.md",
+    "PC/Alive/Russel Hammond.md",
+    "PC/Alive/Kaladin Kal Hamza.md",
+    "PC/Alive/Chad.md",
+    "PC/Alive/Bill Durr.md",
+    "().md",
+    "_Templates/PC-Template.md",
+    "Recording 20220323200550.webm"
+  ]
 }
